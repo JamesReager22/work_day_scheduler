@@ -1,0 +1,182 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  line-height: 1;
+}
+
+textarea{
+  background: transparent;
+  border: none;
+  resize: none;
+  color: #000000;
+  border-left: 1px solid black;
+  padding: 10px;
+}
+
+.jumbotron {
+  text-align: center;
+  background-color: transparent;
+  color: black;
+  border-radius: 0;
+  border-bottom: 10px solid black;
+}
+
+.description{
+  white-space: pre-wrap;
+}
+
+.time-block{
+  text-align: center;
+  border-radius: 15px;
+}
+
+.row {
+  white-space: pre-wrap;
+  height: 80px;
+  border-top: 1px solid white;;
+}
+
+.hour {
+  background-color: #ffffff;
+  color: #000000;
+  border-top: 1px dashed #000000;
+}
+
+.past {
+  background-color: #d3d3d3;
+  color: white;
+}
+
+.present {
+  background-color: #ff6961;
+  color: white;
+}
+
+.future {
+  background-color: #77dd77;
+  color: white;
+}
+
+.saveBtn {
+  border-left: 1px solid black;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+  background-color: #06AED5;
+  color: white;
+}
+
+.saveBtn i:hover {
+  font-size: 20px;
+  transition: all .3s ease-in-out;
+}
+.timeblock {
+    height: 80px;
+    width: 240px;
+    border: solid black 4px;
+    background-color: lightskyblue;
+}
+#timeblock2 {
+    position: relative;
+    left: 270px;
+    bottom: 96px;
+    background-color: lightskyblue;
+}
+
+#timeblock3 {
+    position: relative;
+    left: 540px;
+    bottom: 192px;
+    background-color: lightskyblue;
+}
+
+#timeblock4 {
+    position: relative;
+    left: 810px;
+    bottom: 288px;
+    background-color: lightskyblue;
+}
+
+#timeblock5 {
+    position: relative;
+    bottom: 276px;
+    background-color: lightskyblue;
+}
+
+#timeblock6 {
+    position: relative;
+    left: 270px; 
+    bottom: 372px;
+    background-color: lightskyblue;
+}
+
+#timeblock7 {
+    position: relative;
+    left: 540px; 
+    bottom: 468px;
+    background-color: lightskyblue;
+}
+
+#timeblock8 {
+    position: relative;
+    left: 810px; 
+    bottom: 564px;
+    background-color: lightskyblue;
+}
+
+#timeblock9 {
+    position: relative;
+    bottom: 552px;
+    background-color: lightskyblue;
+}
+
+#timeblock10 {
+    position: relative;
+    left: 270px;
+    bottom: 648px;
+    background-color: lightskyblue;
+}
+
+#timeblock11 {
+    position: relative;
+    left: 540px;
+    bottom: 744px;
+    background-color: lightskyblue;
+}
+
+#timeblock12 {
+    position: relative;
+    left: 810px;
+    bottom: 840px;
+    background-color: lightskyblue;
+}
+
+#timeblock13 {
+    position: relative;
+    bottom: 828px;
+    background-color: lightskyblue;
+}
+
+#timeblock14 {
+    position: relative;
+    left: 270px;
+    bottom: 924px;
+    background-color: lightskyblue;
+}
+
+#timeblock15 {
+    position: relative;
+    left: 540px;
+    bottom: 1020px;
+    background-color: lightskyblue;
+}
+
+#timeblock16 {
+    position: relative;
+    left: 810px;
+    bottom: 1116px;
+    background-color: lightskyblue;
+}
+#savebutton {
+        position: relative;
+    bottom: 1104px;
+}
